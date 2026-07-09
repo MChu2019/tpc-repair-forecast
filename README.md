@@ -25,7 +25,6 @@
 - Recursive forecasting insights + limitations of tree-based models
 
 **[View Full Notebook →](notebook_link_or_nbviewer)**  
-**[Interactive Dashboard (if you deploy one) →](streamlit_link)**
 
 ## 🧩 What I Learned
 - Tree models can't extrapolate trends beyond training data
