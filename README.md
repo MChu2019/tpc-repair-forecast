@@ -24,7 +24,7 @@
 - Forecast shows stable/flat trend in average bill amount
 - Recursive forecasting insights + limitations of tree-based models
 
-**[View Full Notebook →](notebook_link_or_nbviewer)**  
+**[View Full Notebook →](https://github.com/MChu2019/tpc-repair-forecast/blob/main/Repair_Cost_Recovery_Forecast.ipynb)**  
 
 ## 🧩 What I Learned
 - Tree models can't extrapolate trends beyond training data
