@@ -2,7 +2,7 @@
 
 **Predicting monthly average repair bills using 8 forecasting models on real eMARS TPC data.**
 
-![Dashboard Screenshot](images/forecast_plot.png)  
+![Dashboard Screenshot](forecast_plot.png)  
 *(Add a screenshot of your final forecast plot here)*
 
 ## 📋 Project Overview
